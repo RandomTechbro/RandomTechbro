@@ -1,4 +1,4 @@
-## Hi there, I'm RandomTechbro! 👋
+## Welcome to the Tech world, this is your Tech brooo! 🤗😉
 
 <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomTechbro&layout=compact"/>
 
